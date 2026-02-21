@@ -1,0 +1,9 @@
+cd .. -> pasta acima/volta para a pasta anterior
+ls -> lista tudo que tem na pasta
+pwd -> vejo onde estou
+mkdir -> cria pastas
+ls -a -> mostra os arquivos ocultos
+cd -> move entre as pastas
+cat -> mostra o que tem dentro dos arquivos
+rm - rf -> exclui pasta
+git init -> cria um git
