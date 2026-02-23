@@ -7,5 +7,4 @@ cd -> move entre as pastas
 cat -> mostra o que tem dentro dos arquivos
 rm - rf -> exclui pasta
 git init -> cria um git
-aaaaaaaaaaa
 
