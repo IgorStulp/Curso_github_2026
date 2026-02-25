@@ -3,8 +3,26 @@ ls -> lista tudo que tem na pasta
 pwd -> vejo onde estou
 mkdir -> cria pastas
 ls -a -> mostra os arquivos ocultos
-cd -> move entre as pastas
+cd (pasta + /) -> move entre as pastas
 cat -> mostra o que tem dentro dos arquivos
-rm - rf -> exclui pasta
-git init -> cria um git
+rm - rf -> exclui diretório
+rm -> remove pastas do diretório
+
+###########################################################
+
+git init . -> cria um git na pasta atual
+git add -> adiciona uma pasta no staged
+git commit -m "msg" -> cria um commit com as pastas do staged
+git status -> vê o status do git
+git reset (pasta) -> remove uma pasta do staged
+git diff -> verifica o que foi mudado no arquivo
+git log -> vê o log dos commits
+git checkout -b (nome) -> cria uma nova branch
+git checkout (nome) -> vai para outra branch
+git branch -> mostra as branchs do meu projeto
+git branch -d (nome) -> exclui uma branch
+git merge (nome da branch) -> mescla as informações das branchs
+
+
+
 
