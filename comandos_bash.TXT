@@ -7,6 +7,7 @@ cd (pasta + /) -> move entre as pastas
 cat -> mostra o que tem dentro dos arquivos
 rm - rf -> exclui diretório
 rm -> remove pastas do diretório
+touch -> cria arquivos sem nada dentro
 
 ###########################################################
 
@@ -22,7 +23,6 @@ git checkout (nome) -> vai para outra branch
 git branch -> mostra as branchs do meu projeto
 git branch -d (nome) -> exclui uma branch
 git merge (nome da branch) -> mescla as informações das branchs
-
-
-
-
+git pull -> recebe coisas do origin
+git push -> envia coisas para o origin
+git clone -> clona
